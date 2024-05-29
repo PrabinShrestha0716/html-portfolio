@@ -1,0 +1,29 @@
+
+.photo{
+    border: 3px solid yellow;
+}
+
+.background{
+    width: 50%;
+    margin-left: 25%;
+    padding: 20px;
+    margin-bottom: 20%;
+}
+
+.bottomText{
+    color: yellow;
+    font-weight: 100;
+    text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+  
+
+}
+
+.bottomText2{
+    color: whitesmoke;
+    font-weight: 100;
+    text-align: center;
+    font-size: 70%;
+    font-family: 'Times New Roman', Times, serif;
+
+}
